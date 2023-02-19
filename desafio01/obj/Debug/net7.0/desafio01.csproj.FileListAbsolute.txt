@@ -1,0 +1,15 @@
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\bin\Debug\net7.0\desafio01.exe
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\bin\Debug\net7.0\desafio01.deps.json
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\bin\Debug\net7.0\desafio01.runtimeconfig.json
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\bin\Debug\net7.0\desafio01.dll
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\bin\Debug\net7.0\desafio01.pdb
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\desafio01.csproj.AssemblyReference.cache
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\desafio01.AssemblyInfoInputs.cache
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\desafio01.AssemblyInfo.cs
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\desafio01.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\desafio01.dll
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\refint\desafio01.dll
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\desafio01.pdb
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\desafio01.genruntimeconfig.cache
+C:\Workspace\dotnet\carnaval_2023_bloco_da_programacao_balta\desafio01\obj\Debug\net7.0\ref\desafio01.dll
